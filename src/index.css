@@ -31,8 +31,8 @@ h1 {
 }
 
 .app:before {
-  content: 'Bienvenue';
-  background: url('./assete/sunset.jpg')  center center/cover;
+  content: '';
+  background: url('./assete/sunset.jpg') center center/cover;
   position: absolute;
   width: 100%;
   height: 100%;
