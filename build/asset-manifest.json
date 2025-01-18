@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tste/static/css/main.6bd4c99c.css",
+    "main.js": "/tste/static/js/main.9d5244ca.js",
+    "static/js/453.0abf0013.chunk.js": "/tste/static/js/453.0abf0013.chunk.js",
+    "static/media/sunset.jpg": "/tste/static/media/sunset.1e2bad270fd2b572a044.jpg",
+    "index.html": "/tste/index.html",
+    "main.6bd4c99c.css.map": "/tste/static/css/main.6bd4c99c.css.map",
+    "main.9d5244ca.js.map": "/tste/static/js/main.9d5244ca.js.map",
+    "453.0abf0013.chunk.js.map": "/tste/static/js/453.0abf0013.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bd4c99c.css",
+    "static/js/main.9d5244ca.js"
+  ]
+}
