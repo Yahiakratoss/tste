@@ -33,7 +33,7 @@ function App() {
             <p>{data.name}</p>
           </div>
           <div className="temp">
-          
+
             {data.main ? <h1>{(data.main.temp - 273.15).toFixed()}°C</h1> : null}
             {data.main ? <h1>{data.main.temp.toFixed()}°F</h1> : null}
           </div>
@@ -45,7 +45,7 @@ function App() {
         {data.name !== undefined &&
           <div className="bottom">
             <div className="feels">
-            
+
               {data.main ? <p className='bold'>{(data.main.feels_like - 273.15).toFixed()}°C</p> : null}
               {data.main ? <p className='bold'>{data.main.feels_like.toFixed()}°F</p> : null}
               <p>Feels Like</p>
